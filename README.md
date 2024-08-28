@@ -1,2 +1,2 @@
-#  generates color
- colour generator 
+# Colour Generator Random
+colors are Red Green Blue 
