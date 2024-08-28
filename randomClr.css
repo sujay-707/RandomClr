@@ -1,0 +1,36 @@
+body
+{
+    text-align: center;
+    background-color: bisque;
+    /* display: flex;
+    justify-content: center; */
+}
+
+
+div
+{
+    height: 100px;
+    width: 500px;
+    border-radius: 10px;
+    border: 1px solid black;
+    margin: auto;
+    color: white;
+}
+
+p
+{
+    color: black;
+    text-align: center;
+}
+
+li
+{
+    list-style: none;
+}
+
+button 
+{
+    background-color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
